@@ -18,7 +18,7 @@ import {
   EQUIVALENT_TO_FOOD_ICON_WIDTH,
   EQUIVALENT_MORE_FOOD_ICON,
   EQUIVALENT_MORE_FOOD_NUM,
-} from '../../utils/styles-gts-3'
+} from '../../utils/styles-band7'
 import { FOOD_CALORIES } from '../../utils/constants'
 const logger = DeviceRuntimeCore.HmLogger.getLogger('calories')
 const globalData = getApp()._options.globalData
@@ -76,7 +76,7 @@ Page({
       ...EQUIVALENT_TO_BUTTON,
       click_func: () => {
         hmApp.gotoPage({
-          file: 'page/gts-3/food-list',
+          file: 'page/band7/food-list',
         })
       },
     })
