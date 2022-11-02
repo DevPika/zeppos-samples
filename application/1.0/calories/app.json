@@ -91,6 +91,27 @@
         }
       ],
       "designWidth": 390
+    },
+    "band7": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/band7/index",
+            "page/band7/food-list"
+          ]
+        }
+      },
+      "platforms": [
+        {
+            "name": "Amazfit Band 7",
+            "deviceSource": 252
+        },
+        {
+            "name": "Amazfit Band 7",
+            "deviceSource": 254
+        }
+      ],
+      "designWidth": 194
     }
   },
   "i18n": {
