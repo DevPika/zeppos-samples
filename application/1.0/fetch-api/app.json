@@ -72,6 +72,14 @@
         {
           "name": "gts4-w",
           "deviceSource": 7995649
+        },
+        {
+          "name": "Amazfit Band 7",
+          "deviceSource": 252
+        },
+        {
+          "name": "Amazfit Band 7",
+          "deviceSource": 254
         }
       ],
       "designWidth": 480
